@@ -1,0 +1,10 @@
+rapidApi:
+  googleTranslator:
+    uri: https://google-translate1.p.rapidapi.com/language/translate/v2
+  login: x-rapidapi-key
+  xKey: aa40f91989msh5da0b99dbbdf37cp1917c3jsnd43f2a421273
+feign:
+  client:
+    config:
+      default:
+        loggerLevel: full
